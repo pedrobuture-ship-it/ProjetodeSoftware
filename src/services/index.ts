@@ -1,0 +1,10 @@
+export * as animalsService from './animalsService';
+export * as backupService from './backupService';
+export * as birthsService from './birthsService';
+export * as farmSettingsService from './farmSettingsService';
+export * as inseminationsService from './inseminationsService';
+export * as lotsService from './lotsService';
+export * as pregnancyDiagnosesService from './pregnancyDiagnosesService';
+export * as sanitaryManagementService from './sanitaryManagementService';
+export * as semenService from './semenService';
+export * as syncQueueService from './syncQueueService';
