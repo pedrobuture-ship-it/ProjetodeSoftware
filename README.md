@@ -1,4 +1,4 @@
-# Fazenda Cria
+# Projeto Terra
 
 Aplicativo offline-first para gerenciamento de uma fazenda de cria de bovinos, com foco em reprodução, inseminação artificial, matrizes, touros, sêmen, partos, manejo sanitário, lotes, relatórios, backup local e sincronização futura com Supabase.
 
